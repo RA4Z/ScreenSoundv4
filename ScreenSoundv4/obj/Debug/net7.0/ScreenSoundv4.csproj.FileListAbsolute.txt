@@ -1,0 +1,15 @@
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\bin\Debug\net7.0\ScreenSoundv4.exe
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\bin\Debug\net7.0\ScreenSoundv4.deps.json
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\bin\Debug\net7.0\ScreenSoundv4.runtimeconfig.json
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\bin\Debug\net7.0\ScreenSoundv4.dll
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\bin\Debug\net7.0\ScreenSoundv4.pdb
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ScreenSoundv4.csproj.AssemblyReference.cache
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ScreenSoundv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ScreenSoundv4.AssemblyInfoInputs.cache
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ScreenSoundv4.AssemblyInfo.cs
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ScreenSoundv4.csproj.CoreCompileInputs.cache
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ScreenSoundv4.dll
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\refint\ScreenSoundv4.dll
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ScreenSoundv4.pdb
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ScreenSoundv4.genruntimeconfig.cache
+C:\Users\robertn\Documents\Vários\Projeto\CSharp\ScreenSoundv4\ScreenSoundv4\ScreenSoundv4\obj\Debug\net7.0\ref\ScreenSoundv4.dll
